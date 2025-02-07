@@ -1,4 +1,5 @@
 {
-	"versionCode" : 3,
-	"fileName" : "firmware_v2.bin"
+  "versionCode": 3,
+  "fileName": "firmware_v3.bin",
+  "checksum": "3f077fb8b884827d5c711ac47afdacd9"
 }
